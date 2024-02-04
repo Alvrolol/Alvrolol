@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Alvrolol
+- 👀 I’m interested in Learn more about programming languages
+- 🌱 I’m currently learning A little of everything
+- 💞️ I’m looking to collaborate on Nothing 
+- 📫 How to reach me alvaroaulaonlinehatake@gmail.com
+- 😄 Pronouns: Ben/10
+- ⚡ Fun fact: I Draw
+
+<!---
+Alvrolol/Alvrolol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
